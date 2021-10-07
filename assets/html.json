@@ -1,0 +1,88 @@
+[
+  {
+    "1": "What does HTML stand for?\na = \"p\" * 3\nprint(a)",
+    "2": "Who is making the Web standards?",
+    "3": "Choose the correct HTML element for the largest heading:",
+    "4": "What is the correct HTML element for inserting a line break?",
+    "5": "What is the correct HTML for adding a background color?",
+    "6": "Choose the correct HTML element to define important text",
+    "7": "Choose the correct HTML element to define emphasized text",
+    "8": "Which character is used to indicate an end tag?",
+    "9": "Which of these elements are all <table> elements?",
+    "10": "How can you make a numbered list?"
+  },
+  {
+    "1": {
+      "a": "Hyperlinks and Text Markup Language",
+      "b": "Home Tool Markup Language",
+      "c": "Hyper Text Markup Language",
+      "d": "None"
+    },
+    "2": {
+      "a": "Mozilla",
+      "b": "Microsoft",
+      "c": "Google",
+      "d": "The World Wide Web Consortium"
+    },
+    "3": {
+      "a": "<heading>",
+      "b": "<h6>",
+      "c": "<h1>",
+      "d": "<head>"
+    },
+    "4": {
+      "a": "<lb>",
+      "b": "<break>",
+      "c": "<br>",
+      "d": "None"
+    },
+    "5": {
+      "a": "<body style=\"background-color:yellow;\">",
+      "b": "<background>yellow</background>",
+      "c": "<body bg=\"yellow\">",
+      "d": "None"
+    },
+    "6": {
+      "a": "<i>",
+      "b": "<important>",
+      "c": "<b>",
+      "d": "<strong>"
+    },
+    "7": {
+      "a": "<i>",
+      "b": "<italic>",
+      "c": "<em>  ",
+      "d": "None"
+    },
+    "8": {
+      "a": "/",
+      "b": "*",
+      "c": "^",
+      "d": "<"
+    },
+    "9": {
+      "a": "<table><tr><tt>",
+      "b": "<table><tr><td>",
+      "c": "<thead><body><tr>",
+      "d": "<table><head><tfoot>"
+    },
+    "10": {
+      "a": "<ul>",
+      "b": "<list>",
+      "c": "<ol>",
+      "d": "<dl>"
+    }
+  },
+  {
+    "1": "Hyper Text Markup Language",
+    "2": "The World Wide Web Consortium",
+    "3": "<h1>",
+    "4": "<br>",
+    "5": "<body style=\"background-color:yellow;\">",
+    "6": "<strong>",
+    "7": "<em>",
+    "8": "/",
+    "9": "<table><tr><td>",
+    "10": "<ol>"
+  }
+]

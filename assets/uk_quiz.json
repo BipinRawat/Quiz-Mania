@@ -1,0 +1,88 @@
+[
+  {
+    "1": "01. When was Uttaranchal formed?\na = \"p\" * 3\nprint(a)",
+    "2": "02. Which state is to the south of Uttarakhand?",
+    "3": "03. Which is the High Court of Uttarakhand?\n",
+    "4": "04. Who was Uttarakhand’s first chief minister?",
+    "5": "05. Total Number of District in Uttarkhand State",
+    "6": "06. Which is the largest District by population in Uttarakhand?",
+    "7": "07. At Rudraparyag, The Mandakini River meets with ?",
+    "8": "08. At karnaprayag, The Pindar River meets with ?",
+    "9": "09. Source of origin of the Pindari River ?",
+    "10": "10. Where is Gandhi sarovar located ?"
+  },
+  {
+    "1": {
+      "a": "07 November 1999",
+      "b": "09 November 2000",
+      "c": "08 November 2001",
+      "d": "09 November 2001"
+    },
+    "2": {
+      "a": "Punjab",
+      "b": "Haryana",
+      "c": "Uttar Pradesh",
+      "d": "Himanchal Pardesh"
+    },
+    "3": {
+      "a": "Almora",
+      "b": "Nainital",
+      "c": "Haridwar",
+      "d": "Dehradun"
+    },
+    "4": {
+      "a": "Nityanand Swami",
+      "b": "Nishank Pokhriyal",
+      "c": "bhagat singh koshyari",
+      "d": "Bhuwan Chandra Khanduri"
+    },
+    "5": {
+      "a": "78",
+      "b": "12",
+      "c": "70",
+      "d": "13"
+    },
+    "6": {
+      "a": "Chamioli",
+      "b": "Tehri",
+      "c": "Haridwar",
+      "d": "Nainital"
+    },
+    "7": {
+      "a": "Ganga River",
+      "b": "Pindar River",
+      "c": "Alaknanda River",
+      "d": "Pushpawati River"
+    },
+    "8": {
+      "a": "Ganga River",
+      "b": "Nandakini River",
+      "c": "Alaknanda River",
+      "d": "Ramganga River"
+    },
+    "9": {
+      "a": "Milam Glacier",
+      "b": "Kafni Glacier",
+      "c": "Pindari Glacier",
+      "d": "Satopant Glacie"
+    },
+    "10": {
+      "a": "Uttarkhashi",
+      "b": "Champawat",
+      "c": "Bageshwar",
+      "d": "Rudraparyag"
+    }
+  },
+  {
+    "1": "09 November 2001",
+    "2": "Uttar Pradesh",
+    "3": "Nainital",
+    "4": "Nityanand Swami",
+    "5": "13",
+    "6": "Haridwar",
+    "7": "Alaknanda River",
+    "8": "Alaknanda River",
+    "9": "Pindari Glacier",
+    "10": "Rudraparyag"
+  }
+]

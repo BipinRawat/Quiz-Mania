@@ -1,0 +1,88 @@
+[
+  {
+    "1": "Inside which HTML element do we put the JavaScript?\na = \"p\" * 3\nprint(a)",
+    "2": "Where is the correct place to insert a JavaScript?",
+    "3": "What is the correct syntax for referring to an external script called \"xxx.js\"?",
+    "4": "How do you write \"Hello World\" in an alert box?",
+    "5": "How do you create a function in JavaScript?",
+    "6": "How do you call a function named \"myFunction\"?",
+    "7": "How to write an IF statement in JavaScript?",
+    "8": "How to write an IF statement for executing some code if \"i\" is NOT equal to 5?",
+    "9": "How does a WHILE loop start?",
+    "10": "How does a FOR loop start?"
+  },
+  {
+    "1": {
+      "a": "<javascript>",
+      "b": "<scripting>",
+      "c": "<script>",
+      "d": "<js>"
+    },
+    "2": {
+      "a": "Both section are correct",
+      "b": "The <head> section",
+      "c": "The <body> section",
+      "d": "None"
+    },
+    "3": {
+      "a": "<script href=\"xxx.js\">",
+      "b": "<script name=\"xxx.js\">",
+      "c": "<script src=\"xxx.js\">",
+      "d": "None"
+    },
+    "4": {
+      "a": "alert(\"Hello World\");",
+      "b": "alertBox(\"Hello World\");",
+      "c": "msg(\"Hello World\");",
+      "d": "msgBox(\"Hello World\");"
+    },
+    "5": {
+      "a": "function = myFunction()",
+      "b": "function:myFunction()",
+      "c": "function myFunction() ",
+      "d": "None"
+    },
+    "6": {
+      "a": "call myFunction()  ",
+      "b": "myFunction()",
+      "c": "call function myFunction()",
+      "d": "None"
+    },
+    "7": {
+      "a": "if i = 5 ",
+      "b": "if i = 5 then",
+      "c": "if i == 5 then",
+      "d": "if (i == 5)  "
+    },
+    "8": {
+      "a": "if i =! 5 then ",
+      "b": "if (i != 5)  ",
+      "c": "if (i <> 5)",
+      "d": "if i <> 5"
+    },
+    "9": {
+      "a": "while (i <= 10; i++)  ",
+      "b": "while (i <= 10)  ",
+      "c": "while i = 1 to 10",
+      "d": "None"
+    },
+    "10": {
+      "a": "for (i <= 5; i++)",
+      "b": "for i = 1 to 5",
+      "c": "for (i = 0; i <= 5)",
+      "d": "for (i = 0; i <= 5; i++)"
+    }
+  },
+  {
+    "1": "script",
+    "2": "Both section are correct",
+    "3": "<script src=\"xxx.js\">",
+    "4": "alert(\"Hello World\");",
+    "5": "function myFunction()",
+    "6": "myFunction()",
+    "7": "if (i == 5)",
+    "8": "if (i != 5)",
+    "9": "while (i <= 10)",
+    "10": "for (i = 0; i <= 5; i++)"
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "1": "01. India is a federal union comprising twenty-nine states and how many union territories?\na = \"p\" * 3\nprint(a)",
+    "2": "02. Which of the following is the capital of Arunachal Pradesh?",
+    "3": "03. What are the major languages spoken in Andhra Pradesh?",
+    "4": "04. What is the state flower of Haryana?",
+    "5": "05. Which of the following states is not located in the North?",
+    "6": "06. In which state is the main language Khasi?",
+    "7": "07. Which is the largest coffee producing state of India?",
+    "8": "08. Which state has the largest area?",
+    "9": "09. Which state has the largest population?",
+    "10": "10. In what state is the Elephant Falls located?"
+  },
+  {
+    "1": {
+      "a": "6",
+      "b": "7",
+      "c": "8",
+      "d": "9"
+    },
+    "2": {
+      "a": "Itanagar",
+      "b": "Dispur",
+      "c": "Imphal",
+      "d": "Panaji"
+    },
+    "3": {
+      "a": "English and Telugu",
+      "b": "Telugu and Urdu",
+      "c": "Telugu and Kannada",
+      "d": "All of the above"
+    },
+    "4": {
+      "a": "Lotus",
+      "b": "Rhododendron",
+      "c": "Golden Shower",
+      "d": "Not declared"
+    },
+    "5": {
+      "a": "Jharkhand",
+      "b": "Jammu and Kashmir",
+      "c": "Himachal Pradesh",
+      "d": "Haryana"
+    },
+    "6": {
+      "a": "Mizoram",
+      "b": "Nagaland",
+      "c": "Meghalaya",
+      "d": "Tripura"
+    },
+    "7": {
+      "a": "Kerala",
+      "b": "Tamil Nadu",
+      "c": "Karnataka",
+      "d": "Arunachal Pradesh"
+    },
+    "8": {
+      "a": "Maharashtra",
+      "b": "Madhya Pradesh",
+      "c": "Uttar Pradesh",
+      "d": "Rajasthan"
+    },
+    "9": {
+      "a": "Uttar Pradesh",
+      "b": "Maharastra",
+      "c": "Bihar",
+      "d": "Andra Pradesh"
+    },
+    "10": {
+      "a": "Mizoram",
+      "b": "Orissa",
+      "c": "Manipur",
+      "d": "Meghalaya"
+    }
+  },
+  {
+    "1": "7",
+    "2": "Itanagar",
+    "3": "Telugu and Urdu",
+    "4": "Lotus",
+    "5": "Jharkhand",
+    "6": "Meghalaya",
+    "7": "Karnataka",
+    "8": "Rajasthan",
+    "9": "Uttar Pradesh",
+    "10": "Meghalaya"
+  }
+]
